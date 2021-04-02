@@ -6,7 +6,7 @@ The notebook and Python files provided here result in a simple web app which int
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks) to create a sentiment analysis web application. 
 
-The SageMaker Project notebook pursues the following steps to deploy and use the model.  
+The attached SageMaker Project notebook pursues the following steps to deploy and use the model.  
 
 1. Download or otherwise retrieve the data.
 2. Process / Prepare the data.
